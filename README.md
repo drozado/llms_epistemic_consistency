@@ -4,6 +4,8 @@ Code for the paper **"Beyond Viewpoint Affinity: Measuring Political Bias in LLM
 
 This repository contains all experiment code, prompt templates, and analysis notebooks used to measure whether large language models apply consistent evidentiary standards when substantively equivalent evidence is paired with different political cues.
 
+## Data Availability
+
 Stimulus data and prompt templates are also available as a dataset record:
 **[https://huggingface.co/datasets/drozado/llms_epistemic_consistency](https://huggingface.co/datasets/drozado/llms_epistemic_consistency)**
 
@@ -11,6 +13,7 @@ The Hugging Face dataset has its own dataset-card `README.md`, Croissant metadat
 and source-provenance tables, separate from this code repository README.
 
 Experimental results are saved as CSV files under `experimental_results/` (standard condition) and `experimental_results_strict/` (strict-exclusion condition). This data is  available as a Zenodo record: **[https://doi.org/10.5281/zenodo.20033482](https://doi.org/10.5281/zenodo.20033482)**
+
 ---
 
 ## Overview
