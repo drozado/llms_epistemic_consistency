@@ -1,0 +1,24 @@
+model_name,long_name,eci
+gpt-5.4,OpenAI GPT-5.4,155.92558449193325
+gpt-5,OpenAI GPT-5,150.0
+gpt-5-mini,OpenAI GPT-5-mini,145.52475216755067
+gpt-5-nano,OpenAI GPT-5-nano,140.50682118354982
+gpt-4.1,OpenAI GPT-4.1,137.5384100872206
+gpt-4.1-mini,OpenAI GPT-4.1-mini,135.81693359491763
+gpt-4.1-nano,OpenAI GPT-4o-nano,130.89417908770878
+gpt-4o,OpenAI GPT-4o,122.01831926272568
+gpt-4o-mini,OpenAI GPT-4o-mini,127.08812529088948
+gpt-3.5-turbo,OpenAI GPT-3.5,102.33989133061696
+claude-sonnet-4-6,Anthropic claude-sonnet-4-6,152.9315506996564
+claude-haiku-4-5-20251001,Anthropic claude-haiku-4-5,143.03284655367588
+gemini-3-flash-preview,Google gemini-3.1-flash,150.93687046443816
+moonshotai/Kimi-K2.5,Moonshotai Kimi-K2.5,148.19317391917437
+deepseek-ai/DeepSeek-V3.1,DeepSeek V3.1,138.8704164719096
+meta-llama/Llama-3.3-70B-Instruct-Turbo,Meta Llama-3.3-70B,127.54016479665808
+openai/gpt-oss-120b,OpenAI gpt-oss-120b,140.6661452813083
+drozado/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-4e57e3dc,Meta Llama-4-Maverick-17B-128E,133.10180932931883
+drozado/mistralai/Mixtral-8x7B-Instruct-v0.1-11d06fa6,Mistral AI Mixtral-8x7B-Instruct-v0.1-11d06fa6,118.67904309829972
+drozado/meta-llama/Meta-Llama-3-70B-Instruct-Turbo-0019830d,Meta Llama-3-70B-Instruct-Turbo,119.48564262408183
+drozado/google/gemma-2-9b-it-c190a2df,Google gemma-2-9b-it,119.82756811820607
+drozado/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo-1030ae43,Meta Llama-3.1-8B-Instruct-Turbo,115.95547058171856
+drozado/mistralai/Mixtral-8x22B-Instruct-v0.1-99187f2a,Mistral AI Mixtral-8x22B-Instruct-v0.1-99187f2a,121.32712747938352

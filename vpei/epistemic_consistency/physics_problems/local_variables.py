@@ -1,0 +1,1 @@
+PHYSICS_PROBLEMS_SUBJECTS = ['AtomicPhysics', 'ClassicalElectromagnetism', 'ClassicalMechanics', 'Electrodynamics', 'GeometricalOptics', 'QuantumMechanics', 'Relativity', 'SemiconductorPhysics', 'Solid-StatePhysics', 'StatisticalMechanics', 'TheoreticalMechanics', 'Thermodynamics', 'WaveOptics']

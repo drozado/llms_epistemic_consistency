@@ -1,0 +1,86 @@
+# ================================
+# Deny everything at root level; only explicitly allowed items are tracked
+# ================================
+/*
+
+# Root-level files to publish
+!.gitignore
+!README.md
+!pyproject.toml
+!requirements.txt
+
+# Root-level folders to publish
+!/vpei/
+!/notebooks/
+
+# ================================
+# Specific paths to exclude inside tracked folders
+# ================================
+/vpei/epistemic_consistency/art/data_original_size/
+/notebooks/_paper_figures_output/
+/notebooks/figures/
+/notebooks/_0-1 experiments_admin.ipynb
+
+# ================================
+# Exclude generated/runtime artifacts inside tracked folders
+# ================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter_runtime/
+.ipython/
+
+# Secrets
+.env
+.env*
+.env.*
+
+# Data files (generated outputs — kept outside tracked folders)
+*.pkl
+*.h5
+*.dta
+
+# Images (generated outputs — kept outside tracked folders)
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+
+# Documents / LaTeX
+*.pdf
+*.tex
+*.eps
+
+# Archives
+*.zip
+*.rar
+*.tar.gz
+*.tar.bz2
+*.7z
+/vpei/epistemic_consistency/code/data/FixEval_dataset.zip
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/

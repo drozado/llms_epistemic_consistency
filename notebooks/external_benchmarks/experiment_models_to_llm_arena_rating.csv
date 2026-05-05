@@ -1,0 +1,27 @@
+model_name,long_name,arena_rating
+gpt-5.4,OpenAI GPT-5.4,1467.6006268573783
+gpt-5,OpenAI GPT-5,1426.5567040633537
+gpt-4.1,OpenAI GPT-4.1,1413.3649317191444
+gpt-4.1-mini,OpenAI GPT-4.1-mini,1382.3469779418767
+gpt-4.1-nano,OpenAI GPT-4o-nano,1321.767327713746
+gpt-4o,OpenAI GPT-4o,1334.645643386314
+gpt-4o-mini,OpenAI GPT-4o-mini,1317.5168215322717
+gpt-3.5-turbo,OpenAI GPT-3.5,1223.3223638122531
+grok-4.20-non-reasoning,xAI grok-4.20-non-reasoning,1485.0123986410615
+grok-4-1-fast-non-reasoning,xAI grok-4-1-fast-non-reasoning,1460.5091845028903
+claude-sonnet-4-6,Anthropic claude-sonnet-4-6,1463.019584426678
+claude-haiku-4-5-20251001,Anthropic claude-haiku-4-5,1407.895742635126
+gemini-3-flash-preview,Google gemini-3.1-flash,1474.0163509021531
+gemini-3.1-flash-lite-preview,Google gemini-3.1-flash-lite,1437.9274264475457
+Qwen/Qwen3.5-397B-A17B,Alibaba Qwen3.5-397B-A17B,1445.900681712578
+moonshotai/Kimi-K2.5,Moonshotai Kimi-K2.5,1432.484252020465
+deepseek-ai/DeepSeek-V3.1,DeepSeek V3.1,1418.0295141456231
+meta-llama/Llama-3.3-70B-Instruct-Turbo,Meta Llama-3.3-70B,1318.1084191884147
+openai/gpt-oss-120b,OpenAI gpt-oss-120b,1353.3721750885336
+zai-org/GLM-5.1,Zai-org GLM-5.1,1471.590353540721
+drozado/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-4e57e3dc,Meta Llama-4-Maverick-17B-128E,1326.8412412123369
+drozado/mistralai/Mixtral-8x7B-Instruct-v0.1-11d06fa6,Mistral AI Mixtral-8x7B-Instruct-v0.1-11d06fa6,1196.2039764941617
+drozado/meta-llama/Meta-Llama-3-70B-Instruct-Turbo-0019830d,Meta Llama-3-70B-Instruct-Turbo,1275.4939378341091
+drozado/google/gemma-2-9b-it-c190a2df,Google gemma-2-9b-it,1265.495381239709
+drozado/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo-1030ae43,Meta Llama-3.1-8B-Instruct-Turbo,1211.2668942770354
+drozado/mistralai/Mixtral-8x22B-Instruct-v0.1-99187f2a,Mistral AI Mixtral-8x22B-Instruct-v0.1-99187f2a,1228.5367806630454
