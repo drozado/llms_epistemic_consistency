@@ -166,6 +166,6 @@ Multiple testing correction is applied where appropriate. See `vpei/statistical_
 
 ## License
 
-Code: [MIT License](LICENSE)
+Code: [GNU Affero General Public License v3.0](LICENSE)
 
 Stimulus data: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - consult `dataset/metadata/source_datasets.csv` for provenance and licensing of individual components before redistribution.
